@@ -11,9 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MSc Social Data Science - University of Oxford, 2021
+  * Oxford Internet Institute
+* BSc Governance, Economics, and Development - Leiden University College The Hague
+  * Leiden Univeristy College The Hague is the international honors college of Leiden University.
+    Coursework focused on applying advanced statistical methods to complex problems in macroeconomics, po-
+    litical economy, and public policy.
+  * Received the Thesis of Merit Prize for my thesis, ”When Knowledge Becomes Power: What Do We Know
+    about the Role of Expert Economists in Policymaking?” (Grade: A+).
+  * Received a Certificate of Appreciation for my involvement in the student community of Leiden University
+    College.
+* Minor Computer Science - Erasmus School of Economics
+  * Coursework in programming (Java, Python, R), machine learning, databases, and business intelligence.
 
 Work experience
 ======
@@ -35,25 +44,3 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
