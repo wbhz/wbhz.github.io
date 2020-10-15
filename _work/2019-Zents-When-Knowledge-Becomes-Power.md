@@ -1,0 +1,19 @@
+---
+title: "When Knowledge Becomes Power: What Do We Know about the Role of Expert Economists in Policymaking?"
+collection: work
+permalink: /work/2019-Zents-When-Knowledge-Becomes-Power
+excerpt: 'My undergraduate thesis, a systematic review of the literature on the role of expert economists in policymaking worldwide.'
+date: 2019
+venue: 'Journal 1'
+paperurl: 'http://wbhz.github.io/files/Zents2019_When_Knowledge_Becomes_Power.pdf'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+---
+Since the Second World War, economists acting as ’experts’ have left their marks on public policy worldwide. Literature from several different academic backgrounds has addressed the role that expert economists play in policymaking, using a variety of methodological approaches. Consequently, knowledge on this topic is dispersed and distilling it comes at a high cost to the researcher.
+
+In this thesis we bring together and critically evaluate these findings by presenting a systematic review of the literature on the role of experts in policymaking. In doing so, we aim to establish which findings are supported across the literature, which findings are disputed, and which areas of the literature remain uncharted. Using a textual narrative method, we synthesize the literature into three themes that build upon each other to answer our research question. Firstly, we explore how economists gain the authority that allows them to become involved in policymaking. Secondly, we examine the conditions under which they can use this authority to influence policy. Finally, we explore the causal mechanisms through which this influence may occur.
+
+While we find a range of findings that find support across the literature – such as that the influence of expert economists is particularly high during crisis situation or that economists may have a legitimating role in policymaking – we also identify a number of gaps in the literature that demand the attention of future research, some of which result from methodological biases in the literature. It is our hope that this review may serve as a stepping stone for future research to address these gaps.
+---
+*This is my undergraduate thesis.*
+
+[Download paper here](http://wbhz.github.io/files/Zents2019_When_Knowledge_Becomes_Power.pdf)
