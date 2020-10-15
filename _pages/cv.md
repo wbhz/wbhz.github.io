@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<!-- Education
 ======
 * MSc Social Data Science - University of Oxford, 2021
   * Oxford Internet Institute
@@ -22,9 +22,9 @@ Education
   * Received a Certificate of Appreciation for my involvement in the student community of Leiden University
     College.
 * Minor Computer Science - Erasmus School of Economics
-  * Coursework in programming (Java, Python, R), machine learning, databases, and business intelligence.
+  * Coursework in programming (Java, Python, R), machine learning, databases, and business intelligence. -->
 
-Work experience
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -43,4 +43,4 @@ Skills
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
