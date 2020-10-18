@@ -1,11 +1,10 @@
 ---
 permalink: /contact/
+layout: archive
 title: "Contact"
-excerpt: "Contact"
 author_profile: true
 redirect_from: 
   - /contact/
-  - /contact.html
 ---
 
 ### Let's connect!
