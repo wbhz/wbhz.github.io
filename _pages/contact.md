@@ -3,8 +3,6 @@ permalink: /contact/
 layout: archive
 title: "Contact"
 author_profile: true
-redirect_from: 
-  - /contact/
 ---
 
 ### Let's connect!
