@@ -1,12 +1,9 @@
 ---
 title: "When Knowledge Becomes Power: What Do We Know about the Role of Expert Economists in Policymaking?"
 collection: publications
-permalink: /publication/2019-when-knowledge-becomes-power
-excerpt: 'Since the Second World War, economists acting as ’experts’ have left their marks on public policy worldwide. Literature from several different academic backgrounds has addressed the role that expert economists play in policymaking, using a variety of methodological approaches. Consequently, knowledge on this topic is dispersed and distilling it comes at a high cost to the researcher.
-
-In this thesis we bring together and critically evaluate these findings by presenting a sys-tematic review of the literature on the role of experts in policymaking. In doing so, we aim to establish which findings are supported across the literature, which findings are disputed, and which areas of the literature remain uncharted. Using a textual narrative method, we synthesize the literature into three themes that build upon each other to answer our research question. Firstly, we explore how economists gain the authority that allows them to become involved in policymaking. Secondly, we examine the conditions under which they can use this authority to influence policy. Finally, we explore the causal mechanisms through which this influence may occur.'
+permalink: /work/2019-when-knowledge-becomes-power
+excerpt: 'Since the Second World War, economists acting as ’experts’ have left their marks on public policy worldwide. Literature from several different academic backgrounds has addressed the role that expert economists play in policymaking, using a variety of methodological approaches. In this thesis we bring together and critically evaluate these findings by presenting a systematic review of the literature on the role of experts in policymaking. Using a textual narrative method, we synthesize the literature into three themes. Firstly, we explore how economists gain the authority that allows them to become involved in policymaking. Secondly, we examine the conditions under which they can use this authority to influence policy. Finally, we explore the causal mechanisms through which this influence may occur.'
 date: 2019-05-17
-venue: 'Journal 1'
 paperurl: 'http://wbhz.github.io/files/Zents2019_WhenKnowledgeBecomesPower_Article.pdf'
 citation: 'Zents, W. (2019). &quot;When Knowledge Becomes Power: What Do We Know about the Role of Expert Economists in Policymaking?&quot;'
 ---
