@@ -7,4 +7,4 @@ author_profile: true
 
 ### Let's connect!
 
-Get in touch with me via [e-mail](mailto:willem.zents@oii.ox.ac.uk), or connect with me on [LinkedIn](https://www.linkedin.com/in/willemzents/).
+Get in touch with me via [e-mail](mailto:willem.zents@oii.ox.ac.uk) :mail:, or connect with me on :iphone: [LinkedIn](https://www.linkedin.com/in/willemzents/).
