@@ -12,4 +12,4 @@ I'm Willem, an MSc Candidate in **Social Data Science** :chart_with_upwards_tren
 
 Previously, I worked at [Picnic Technologies](https://picnic.app/nl/), where I crunched data to advise large FMCG companies on digital and e-commerce strategy. I received my BSc (*Cum Laude*) in Liberal Arts & Sciences from [Leiden University College The Hague](https://www.universiteitleiden.nl/en/governance-and-global-affairs/leiden-university-college-the-hague), with a major in Governance, Economics, and Development, and a minor in Computer Science.
 
-Let's [get in touch](mailto:willem.zents@oii.ox.ac.uk)! :email:
+Let's [get in touch](mailto:willem.zents@oii.ox.ac.uk)! :envelope:
